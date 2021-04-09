@@ -1,5 +1,5 @@
 node {
-    def branch_name = "${GIT_BRANCH}"
+    def branch_name = "aaaa"
 }
 pipeline {
     agent any
